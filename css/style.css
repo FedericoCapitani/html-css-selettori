@@ -1,0 +1,18 @@
+h2.title{
+    color: red;
+}
+
+/* discendente diretto, entambi i div */
+/* div > p{
+    color: red;
+}  */
+
+div p{
+    color: red;
+} 
+
+a:hover,
+a:active,
+a:focus{
+    background-color: red;
+}
